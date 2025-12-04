@@ -1,1 +1,34 @@
-<h1>🎮 Página de Login do League of Legends – Trabalhando com CSS</h1> <p> Este projeto é uma <strong>réplica interativa da página de login do League of Legends</strong>, desenvolvida com <strong>HTML, CSS e JavaScript</strong>. O objetivo principal foi praticar animações, responsividade, estilização avançada com CSS e manipulação de elementos da interface, recriando fielmente a experiência visual da tela original do jogo. </p> <hr> <h2>🚀 Funcionalidades</h2> <ul> <li>🎨 <strong>Design inspirado no cliente oficial do LoL</strong><br> Interface fiel ao visual do jogo, incluindo cores, fontes e estilo.</li> <li>🖼️ <strong>Background animado</strong><br> Imagem ou vídeo de fundo com efeitos de transição e profundidade.</li> <li>🔒 <strong>Formulário de login funcional (front-end)</strong><br> Campos de usuário e senha com validações básicas.</li> <li>✨ <strong>Efeitos de hover e microinterações</strong><br> Botões e elementos com animações suaves para dar mais imersão.</li> <li>📱 <strong>Layout responsivo</strong><br> Totalmente adaptado para diferentes tamanhos de tela.</li> </ul> <hr> <h2>🧩 Tecnologias Utilizadas & Aprendizados</h2> <ul> <li><strong>HTML5</strong> — estrutura e semântica da página</li> <li><strong>CSS3</strong> — design, responsividade, animações e efeitos visuais</li> <li><strong>JavaScript (ES6+)</strong> — manipulação de DOM e lógica de validação</li> <li>Prática com <strong>layout moderno</strong> usando flexbox e posicionamento avançado</li> <li>Melhoria no uso de <strong>animações, transições e microinterações</strong></li> <li>Experiência em <strong>organização de código</strong> e boas práticas no front-end</li> </ul> <hr> <h2>📸 Prévia do Projeto</h2> <p>*(adicione aqui depois uma imagem ou GIF mostrando sua página)*</p> <hr> <h2>📁 Como executar o projeto</h2> <pre> 1. Baixe ou clone este repositório 2. Abra o arquivo <code>index.html</code> no navegador 3. Aproveite a experiência da página de login do LoL ✨ </pre>
+<h1>🎮 Página de Login do League of Legends – Trabalhando com CSS</h1>
+
+<p>
+  Este projeto é uma réplica interativa da página de login do jogo League of Legends,
+  desenvolvida com <strong>HTML, CSS e JavaScript</strong>. O objetivo principal foi recriar
+  a estética e a experiência visual do cliente oficial do LoL, explorando principalmente
+  animações, responsividade e técnicas modernas de estilização.
+</p>
+
+<p>
+  A interface foi construída para se aproximar ao máximo do visual original do jogo,
+  incluindo efeitos de profundidade, transições suaves, background animado e microinterações
+  nos botões e campos de entrada. O formulário de login é completamente funcional no
+  front-end, utilizando validações simples para melhorar a experiência do usuário.
+</p>
+
+<p>
+  Todo o layout foi cuidadosamente planejado para ser responsivo, garantindo boa navegação
+  tanto em telas grandes quanto em dispositivos menores. O uso de <strong>CSS3</strong> permitiu
+  explorar animações, efeitos visuais e um design mais imersivo, enquanto o
+  <strong>JavaScript</strong> foi aplicado para manipulação de DOM e lógica de validação.
+</p>
+
+<p>
+  Durante o desenvolvimento, houve um foco na organização do código, boas práticas,
+  utilização de <em>flexbox</em>, posicionamento avançado e criação de uma interface moderna
+  e agradável. Este projeto serviu como uma excelente oportunidade para consolidar
+  conhecimentos de front-end e aprofundar o domínio sobre estilização e interatividade.
+</p>
+
+<p>
+  Para visualizar o projeto, basta baixar ou clonar o repositório e abrir o arquivo
+  <code>index.html</code> diretamente no navegador.
+</p>
