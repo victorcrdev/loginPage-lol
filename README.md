@@ -1,34 +1,45 @@
 <h1>🎮 Página de Login do League of Legends – Trabalhando com CSS</h1>
 
 <p>
-  Este projeto é uma réplica interativa da página de login do jogo League of Legends,
-  desenvolvida com <strong>HTML, CSS e JavaScript</strong>. O objetivo principal foi recriar
-  a estética e a experiência visual do cliente oficial do LoL, explorando principalmente
-  animações, responsividade e técnicas modernas de estilização.
+  Este projeto é uma <strong>réplica interativa da página de login do League of Legends</strong>,
+  desenvolvida com <strong>HTML, CSS e JavaScript</strong>.  
+  O objetivo foi recriar a estética e a experiência visual do login oficial do jogo, praticando
+  técnicas de estilização avançada, animações, microinterações e organização de código no front-end.
 </p>
 
-<p>
-  A interface foi construída para se aproximar ao máximo do visual original do jogo,
-  incluindo efeitos de profundidade, transições suaves, background animado e microinterações
-  nos botões e campos de entrada. O formulário de login é completamente funcional no
-  front-end, utilizando validações simples para melhorar a experiência do usuário.
-</p>
+<hr>
+
+<h2>🚀 Funcionalidades</h2>
 
 <p>
-  Todo o layout foi cuidadosamente planejado para ser responsivo, garantindo boa navegação
-  tanto em telas grandes quanto em dispositivos menores. O uso de <strong>CSS3</strong> permitiu
-  explorar animações, efeitos visuais e um design mais imersivo, enquanto o
-  <strong>JavaScript</strong> foi aplicado para manipulação de DOM e lógica de validação.
+  A interface foi construída para ser fiel ao design do LoL, contando com efeitos de profundidade,
+  background animado, transições suaves e elementos interativos.  
+  O formulário possui validações simples no front-end, proporcionando uma experiência
+  mais realista e completa.  
+  Além disso, todo o layout foi planejado para ser totalmente responsivo, funcionando bem em
+  diferentes tamanhos de tela.
 </p>
 
+<hr>
+
+<h2>🧩 Tecnologias Utilizadas & Aprendizados</h2>
+
 <p>
-  Durante o desenvolvimento, houve um foco na organização do código, boas práticas,
-  utilização de <em>flexbox</em>, posicionamento avançado e criação de uma interface moderna
-  e agradável. Este projeto serviu como uma excelente oportunidade para consolidar
-  conhecimentos de front-end e aprofundar o domínio sobre estilização e interatividade.
+  O projeto foi estruturado com <strong>HTML5</strong> para organização do conteúdo, enquanto
+  o <strong>CSS3</strong> foi utilizado para criar o design, trabalhar responsividade,
+  transições, animações e microinterações.  
+  O <strong>JavaScript (ES6+)</strong> complementou o projeto com manipulação de DOM e lógica
+  de validação do formulário.  
+  Durante o desenvolvimento, também houve prática com flexbox, posicionamento avançado, 
+  organização de código e boas práticas do front-end.
 </p>
+
+<hr>
+
+<h2>📁 Como executar o projeto</h2>
 
 <p>
   Para visualizar o projeto, basta baixar ou clonar o repositório e abrir o arquivo
-  <code>index.html</code> diretamente no navegador.
+  <code>index.html</code> diretamente no navegador.  
+  Não é necessário instalar nenhuma dependência adicional.
 </p>
